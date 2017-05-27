@@ -56,7 +56,7 @@ def feture_engineer(train_data, test_data):
      'haveBaby',
     #'hometownProvince',
      'residenceProvince',
-    #'positionID',
+    'positionID',
     #'sitesetID',
      'positionType',
      'connectionType',
